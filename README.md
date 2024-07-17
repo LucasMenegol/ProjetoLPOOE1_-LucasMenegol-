@@ -6,4 +6,4 @@ O presente projeto refere-se ao desenvolvimento de um sistema Java utilizando JP
 # Modelagem Realizada
 A modelagem possue essas entidades e relacionamentos:
 
-![modelagem](https://github.com/user-attachments/assets/6c02fad0-d6b9-4b95-aee3-5cd8c9d7f5ca)
+
