@@ -1,9 +1,0 @@
-br\edu\ifsul\cc\ipoo\compras\lpoo_sistemaempresa\dao\InterfacePersistencia.class
-br\edu\ifsul\cc\ipoo\compras\lpoo_sistemaempresa\dao\PersistenciaJPA.class
-br\edu\ifsul\cc\ipoo\compras\lpoo_sistemaempresa\model\Cliente_.class
-br\edu\ifsul\cc\ipoo\compras\lpoo_sistemaempresa\LPOO_SistemaEmpresa.class
-br\edu\ifsul\cc\ipoo\compras\lpoo_sistemaempresa\model\Funcionario_.class
-br\edu\ifsul\cc\ipoo\compras\lpoo_sistemaempresa\model\Funcionario.class
-br\edu\ifsul\cc\ipoo\compras\lpoo_sistemaempresa\model\Venda.class
-br\edu\ifsul\cc\ipoo\compras\lpoo_sistemaempresa\model\Venda_.class
-br\edu\ifsul\cc\ipoo\compras\lpoo_sistemaempresa\model\Cliente.class
